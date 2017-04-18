@@ -1,0 +1,9 @@
+{
+    "pollSeconds": 60,
+    "guid": "com.portfolium.pfmon",
+    "newrelic": {
+        "license": "YOUR_LICENSE_KEY",
+        "url": "https://platform-api.newrelic.com/platform/v1/metrics"
+    },
+    "modules": {}
+}
